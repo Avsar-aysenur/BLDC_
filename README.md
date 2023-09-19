@@ -1,5 +1,4 @@
-
-USING_ATMEL328P_BLDC_MOTOR_DRİVER
+//USING_ATMEL328P_BLDC_MOTOR_DRİVER
 // pot
 #define analogInPin1 A0
 // motor setup
